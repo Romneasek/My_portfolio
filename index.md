@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/Romneasek/Predicting_Seoul_Bike_Rented_Count)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -12,30 +12,29 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**47%** accuracy](https://github.com/Romneasek/Predicting_Seoul_Bike_Rented_Count).
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+- Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
+
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Portuguese Bank Marketing Analysis](https://github.com/Romneasek/Portuguese_Bank_Marketing_Analysis)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/LR.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit..
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+**Quantifiable result:** We could Classify the type of tumor resulting in [**89.29%** accuracy using Logistic Regression algorithm](https://github.com/Romneasek/Portuguese_Bank_Marketing_Analysis).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Used logistic regression to classify whether term deposit is subscribed or not.
+- Classified subscription depending on selected important feature.
+- Used SMOTE to handle imbalanced data.
+- Explored a machine learning approach to marketing analysis
 
 ***
 
