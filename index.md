@@ -38,6 +38,37 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Orthopedic patient prediction](https://github.com/Romneasek/Orthopedic_patient_prediction)
+
+<img src="images/KNN.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:**In this project we are provided with multiple instances of orthopedic parameters according to that I classified whether the patients are Normal or Abnormal.
+
+**Quantifiable result:** We could Classify the the patient is normal or abnormal [**82.26%** accuracy using Naive Bayes algorithm](https://github.com/Romneasek/Orthopedic_patient_prediction).
+
+- Used K-Nearest-Neighbors and GaussianNB to classify Normal or Abnormal paitents.
+- Analysed different parameters to classify patients.
+- Explored a machine learning approach to Medical Analysis.
+
+***
+
+[Orthopedic patient prediction](https://github.com/Romneasek/Orthopedic_patient_prediction)
+
+<img src="images/KNN.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:**In this project we are provided with multiple instances of orthopedic parameters according to that I classified whether the patients are Normal or Abnormal.
+
+**Quantifiable result:** We could Classify the the patient is normal or abnormal [**82.26%** accuracy using Naive algorithm](https://github.com/Romneasek/Orthopedic_patient_prediction).
+
+- Used K-Nearest-Neighbors and GaussianNB to classify Normal or Abnormal paitents.
+- Analysed different parameters to classify patients.
+- Explored a machine learning approach to Medical Analysis.
+
+***
 [Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
