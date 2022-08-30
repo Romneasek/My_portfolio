@@ -53,3 +53,34 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Explored a machine learning approach to Medical Analysis.
 
 ***
+
+[Talking data fraud detection](https://github.com/Romneasek/Talking_data_fraud_detection)
+
+<img src="images/TD.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, XGBoost Classifier, Bagging Classifier
+
+**Project Objective:**In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+
+**Quantifiable result:** We could predict whether a given click resulted in a downloaded or not.[**99%** accuracy using XGBoost algorithm](https://github.com/Romneasek/Talking_data_fraud_detection).Accuracy by Using Bagging Classifier [**99%**](https://github.com/Romneasek/Talking_data_fraud_detection).
+
+- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud.
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
+- Explored Ensemble technique.
+
+***
+
+[Hand Written Digits Recognition](https://github.com/Romneasek/HandWritten_Digits_Recognition)
+
+<img src="images/CV.png?raw=true"/>
+
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:**Mnist is a dataset with 70,000 handwritten digits. Here I have predicted the mnist digits by using Convolution Neural Network.
+
+**Quantifiable result:** We could train the convolution neural network to attain [**99%** accuracy using **10** epochs](https://github.com/Romneasek/HandWritten_Digits_Recognition).
+
+- Added multiple convolution and pooling layers
+- Training model on basis of Mnist data
+- Data Source: MNIST
