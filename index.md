@@ -79,7 +79,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:**Mnist is a dataset with 70,000 handwritten digits. Here I have predicted the mnist digits by using Convolution Neural Network.
 
-**Quantifiable result:** We could train the convolution neural network to attain [**99%** accuracy using **10** epochs](https://github.com/Romneasek/HandWritten_Digits_Recognition).
+**Quantifiable result:** We could train the Convolution Neural Network to attain [**99%** accuracy using **10** epochs](https://github.com/Romneasek/HandWritten_Digits_Recognition).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of Mnist data
